@@ -1,0 +1,6 @@
+{
+  "name": "Diagnóstico Ley 594 de 2000 - Valle del Cauca",
+  "description": "Formulario de diagnóstico para entidades públicas y privadas con funciones públicas del Valle del Cauca sobre la aplicación de la Ley 594 de 2000 y lineamientos del Archivo General de la Nación, con integración a Google Sheets para el usuario 3411172.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
